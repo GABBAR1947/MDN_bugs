@@ -1,0 +1,5 @@
+-ms-clear is a non standard feature used by microsoft
+
+For more details:
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/::-ms-clear

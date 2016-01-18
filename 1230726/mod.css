@@ -1,0 +1,13 @@
+h1{
+	color:red;
+}
+input[type=text]::-ms-clear{
+	width:100%;
+	padding:12px 20px;
+	margin:8px 0;
+	box-sizing:border-box;
+    display:none;   
+}
+input[type=password]::-ms-reveal{
+    display:none;
+}
